@@ -1,4 +1,4 @@
-I am Sintija!
+## Hy there, I am Sintija! 👋
 
 I am a software developer, and always looking for new ways to improve my skills.
 
