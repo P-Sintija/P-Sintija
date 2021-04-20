@@ -1,16 +1,20 @@
-### Hi there 👋
+I am Sintija!
 
-<!--
-**P-Sintija/P-Sintija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer, and always looking for new ways to improve my skills.
 
-Here are some ideas to get you started:
+**Skills**
+* PHP
+* Laravel
+* MySQL
+* Unit & Integration testing
+* MVC, SOLID & design patterns
+* GIT
+* REST API
+* HTML, CSS, TypeScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Contact me**
+* sintija.putnina@gmail.com
+* https://www.linkedin.com/in/sintija-putni%C5%86a-738101210/
+
+🤟 - It always seems impossible until it’s done.
