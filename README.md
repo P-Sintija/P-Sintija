@@ -15,6 +15,6 @@ I am a software developer, and always looking for new ways to improve my skills.
 
 **Contact me**
 * sintija.putnina@gmail.com
-* https://www.linkedin.com/in/sintija-putni%C5%86a-738101210/
+* https://www.linkedin.com/in/sintija-putni%C5%86a/
 
 🤟 - It always seems impossible until it’s done.
